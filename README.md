@@ -7,3 +7,5 @@ Built using HTML, CSS and Javascript.
 Fonts Used
 
     1. Lato
+
+live URL: https://housecomfy.netlify.app/
